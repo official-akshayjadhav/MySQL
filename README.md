@@ -1,5 +1,7 @@
-# MYSQL-TE-2018
-MySql DB snippets [ TE 2018 ]
+# MYSQL-DB
+MySql DB snippets
+
+start date : 14-Jul-2018
 
 this repository contains following stuff :
   1. snippets of MySql DB queries
